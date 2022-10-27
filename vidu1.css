@@ -1,0 +1,10 @@
+.main{
+    width: 100%;
+    background-color: antiquewhite;
+    display: grid;
+    color: crimson;
+}
+#home{
+    grid-template-columns: repeat (auto-fit, minmax(15%,1fr));
+    
+}

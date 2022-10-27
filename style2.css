@@ -1,0 +1,37 @@
+.h3 {color: red; font-size: 25px; font-style:Aria; text-align: center;}
+.table {border: 2PX double black;}
+    .th,td  {border: 1px solid black; 
+    }
+    
+    .tr{
+        background-color:yellow; color:blue; font: size 15px;
+    } */
+
+    /* h3 { */
+        /* chữ đỏ và cỡ chữ 25
+        font-size: 25px;
+        color: red;
+        text-align: center;
+    
+    }
+    
+    th {
+        font-size: 16px;
+        color: green;
+        background-color: gold
+    }
+    
+    td {
+        font-size: 15px;
+        color: white;
+        background-color: purple;
+    }
+    
+    table {
+        border: double
+    }
+    
+    th,td {
+        border-collapse: collapse;
+    } --/
+ 

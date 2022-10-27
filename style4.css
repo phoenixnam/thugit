@@ -1,0 +1,10 @@
+a {
+    color: deeppink;
+    text-decoration: none;
+}
+a.Whitewine{
+    color: yellow; font-style: italic; text-decoration: none;
+}
+a.redwine{
+    color: red; font-style: italic; text-decoration: none;
+}

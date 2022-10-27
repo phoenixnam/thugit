@@ -1,0 +1,16 @@
+Global CSS
+.container {
+ background: red;
+ max-width: 960px;
+ max-height: 1000px;
+ margin: 0 auto;
+ padding: 5px;
+}
+.item {
+ background: blue;
+ margin: 5px;
+ color: white;
+ height: 50px;
+ text-align: center;
+ line-height: 50px;
+}
